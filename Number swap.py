@@ -1,0 +1,11 @@
+x=5
+y=10
+z=15
+tem=x
+x=y
+y=z
+z=tem
+print(tem)
+print(x)
+print(y)
+print(z)
